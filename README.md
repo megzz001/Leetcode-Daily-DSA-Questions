@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
