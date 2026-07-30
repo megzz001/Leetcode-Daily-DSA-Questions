@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
@@ -34,9 +35,14 @@
 ## Math
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
