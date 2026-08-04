@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
@@ -57,6 +58,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Counting
