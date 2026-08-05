@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
