@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0013-roman-to-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Counting
