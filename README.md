@@ -23,6 +23,7 @@
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
@@ -46,6 +47,7 @@
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +101,12 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
