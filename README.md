@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -46,6 +47,7 @@
 | [0009-palindrome-number](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -78,19 +80,23 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -112,4 +118,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
