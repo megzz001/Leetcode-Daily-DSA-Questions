@@ -11,6 +11,7 @@
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
