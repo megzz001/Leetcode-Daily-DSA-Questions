@@ -8,6 +8,7 @@
 | [0877-stone-game](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -68,6 +69,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/0013-roman-to-integer) |
+| [1386-cinema-seat-allocation](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -141,5 +144,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
