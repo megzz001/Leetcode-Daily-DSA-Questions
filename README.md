@@ -11,6 +11,7 @@
 | [1386-cinema-seat-allocation](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/megzz001/Leetcode-Daily-DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
